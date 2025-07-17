@@ -1,12 +1,34 @@
-# React + Vite
+# Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and visually engaging web application that mimics the look and feel of Netflix. Built using **React.js**, **Firebase**, and the **TMDB API**, this project showcases a dynamic movie streaming interface with user authentication and real-time data fetching.
 
-Currently, two official plugins are available:
+## 📚 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was developed by following the comprehensive tutorial by **GreatStack**, which walks through building a full-stack Netflix-style website. It demonstrates how to integrate third-party APIs, manage user sessions with Firebase, and create a polished UI using React.
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Movie browsing with dynamic banners and categories
+- Responsive layout for desktop and mobile
+- Firebase authentication (login/signup)
+- TMDB API integration for real-time movie data
+- Clean component-based architecture
+
+## 🎓 Credits
+
+Tutorial by [GreatStack](https://www.youtube.com/watch?v=YQQD67N5pi0)  
+Inspired by their walkthrough on building a Netflix clone using React, Firebase, and TMDB API
+
+## 🛠️ Tech Stack
+
+- React.js
+- Firebase
+- TMDB API
+- JavaScript
+- CSS
+
+## 📦 Installation
+
+```bash
+npm install
+npm start
